@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=435&lines=Hello!+HSH's+Github" alt="Typing SVG" /></a></h1>
-<h3 align="center"> 🔨 Tech Stack 🔨</h3>
+<h3 align="center"> 🔨 Tech Stacks 🔨</h3>
 <div align="center">
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
@@ -54,3 +54,13 @@
     </div><br>
   </div>
 </div>
+
+
+<div style="text-align: left;"> 
+    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h3> <div style="text-align: left;"> 
+      <img src="https://github-readme-stats.vercel.app/api?username=HSH-11&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSH-11&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+          /> </div> 
+    </div>
+
+    
