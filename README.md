@@ -23,6 +23,7 @@
     <div>
         <!-- Operating Systems -->
         <p><small><strong>Operating Systems</strong></small></p>
+        <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
         <img src="https://img.shields.io/badge/ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
         <!-- Web Servers Cloud/Hosting -->
