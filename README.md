@@ -64,6 +64,15 @@
   </div>
 </div>
 
+<div style="text-align: left;"> 
+  <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h3>
+  <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: stretch;">
+    <img src="https://github-readme-stats.vercel.app/api?username=HSH-11&show_icons=true&theme=dark&bg_color=180,000000&title_color=000000&text_color=000000" style="width: 49%; height: 200px; object-fit: cover;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSH-11&layout=donut&bg_color=180,000000&title_color=000000&text_color=000000" style="width: 49%; height: 200px; object-fit: cover;"/>
+  </div>
+</div>
+
+
 
 
     
