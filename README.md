@@ -56,13 +56,25 @@
   </div>
 </div>
 
-<div style="text-align: left;"> 
+<div style="text-align: left;">
   <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h3>
-  <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: stretch;">
-    <img src="https://github-readme-stats.vercel.app/api?username=HSH-11&show_icons=true&bg_color=180,000000&title_color=000000&text_color=000000" style="width: 49%; height: 210px; object-fit: cover;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSH-11&layout=donut&bg_color=180,000000&title_color=000000&text_color=000000" style="width: 49%; height: 210px; object-fit: cover;"/>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between; align-items: stretch;">
+    <!-- GitHub Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=HSH-11&show_icons=true&bg_color=180,000000&title_color=000000&text_color=000000&cache_seconds=1800" 
+         style="width: 49%; height: 210px; object-fit: cover;"/>
+    <!-- Most Used Languages (세로 길게 수정) -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSH-11&layout=donut&bg_color=180,000000&title_color=000000&text_color=000000&cache_seconds=1800" 
+         style="width: 49%; height: 210px; object-fit: cover;"/>
+    <!-- Streak Stats -->
+    <img src="https://streak-stats.demolab.com?user=HSH-11&theme=transparent&date_format=j%20M%5B%20Y%5D" 
+         style="width: 49%; height: 210px; object-fit: cover;"/>
+    <!-- Activity Graph -->
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HSH-11&bg_color=ffffff&color=000000&line=87ceeb&point=1e90ff&area=true&hide_border=true" />
   </div>
 </div>
+
+
+
 
 
 
