@@ -62,7 +62,7 @@
     <!-- GitHub Stats -->
     <img src="https://github-readme-stats.vercel.app/api?username=HSH-11&show_icons=true&bg_color=180,000000&title_color=000000&text_color=000000&cache_seconds=1800" 
          style="width: 49%; height: 210px; object-fit: cover;"/>
-    <!-- Most Used Languages (세로 길게 수정) -->
+    <!-- Most Used Languages-->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSH-11&layout=donut&bg_color=180,000000&title_color=000000&text_color=000000&cache_seconds=1800" 
          style="width: 49%; height: 210px; object-fit: cover;"/>
     <!-- Streak Stats -->
