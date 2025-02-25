@@ -65,8 +65,6 @@
     <!-- Most Used Languages-->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSH-11&layout=donut&bg_color=180,000000&title_color=000000&text_color=000000&cache_seconds=1800" 
          style="width: 49%; height: 210px; object-fit: cover;"/>
-    <!-- Activity Graph -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HSH-11&bg_color=ffffff&color=000000&line=87ceeb&point=1e90ff&area=true&hide_border=true" />
   </div>
 </div>
 
