@@ -18,19 +18,6 @@
         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
     </div>
-    <!-- Server -->
-    <h3><p><strong>Server</strong></p></h3>
-    <div>
-        <!-- Operating Systems -->
-        <p><small><strong>Operating Systems</strong></small></p>
-        <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-        <img src="https://img.shields.io/badge/ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
-        <!-- Web Servers Cloud/Hosting -->
-        <p><small><strong>Web Servers Cloud/Hosting</small></p>
-        <img src="https://img.shields.io/badge/nginx-%23269539.svg?&style=for-the-badge&logo=nginx&logoColor=white" />
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
-    </div>
     <!-- Frontend -->
     <h3><p><strong>Frontend</strong></p></h3>
     <div>
