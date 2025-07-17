@@ -49,7 +49,7 @@
 
 <!-- 백준 badge -->
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hsh11" width="100%"><br><br>
-
+<img src="http://mazandi.herokuapp.com/api?handle=hsh11&theme=cold"/>
 <!-- GitHub 언어 통계 -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSH-11&layout=donut&bg_color=00000000&title_color=000000&text_color=000000&cache_seconds=1800" width="100%">
 
