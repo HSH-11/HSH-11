@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-<p>👇Check Out My GitHub Blog</p>
+<p>GitHub Blog</p>
 <!-- 블로그 배지 -->
 <a href="https://hsh-11.github.io">
   <img src="https://img.shields.io/badge/Blog-GitHub.io-blue?logo=github" />
