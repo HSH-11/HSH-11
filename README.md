@@ -1,58 +1,62 @@
-<table>
-  <tr>
-    <td valign="top" width="50%">
-<p>GitHub Blog</p>
-<!-- 블로그 배지 -->
-<a href="https://hsh-11.github.io">
-  <img src="https://img.shields.io/badge/Blog-GitHub.io-blue?logo=github" />
-</a>
+# 👋 Welcome to My GitHub
 
-<h3 align="left">🔨 Tech Stacks 🔨</h3>
+[![Blog Badge](https://img.shields.io/badge/Blog-GitHub.io-blue?logo=github)](https://hsh-11.github.io)
 
-<!-- Backend -->
-<strong>Backend</strong><br>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><br>
-<img src="https://img.shields.io/badge/flask-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"><br>
+## 🛠 Tech Stacks
 
-<!-- Database -->
-<strong>Database</strong><br>
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"><br>
+### Backend
 
-<!-- DevOps & Monitoring -->
-<strong>DevOps & Monitoring</strong><br>
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
-<img src="https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"><br>
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<!-- Frontend -->
-<strong>Frontend</strong><br>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"><br>
+### Database
 
-<!-- Tools -->
-<strong>Tools</strong><br>
-<img src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=for-the-badge&logo=eclipse%20ide&logoColor=white">
-<img src="https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white"><br>
-<img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-</td>
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<td valign="top" width="50%">
+### LLM & AI
 
-<h3>🏅 Stats</h3>
+![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-<!-- 백준 badge -->
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hsh11" width="100%"><br><br>
-<img src="http://mazandi.herokuapp.com/api?handle=hsh11&theme=cold"/>
-<!-- GitHub 언어 통계 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSH-11&layout=donut&bg_color=00000000&title_color=000000&text_color=000000&cache_seconds=1800" width="100%">
+### DevOps & Monitoring
 
-</td>
-  </tr>
-</table>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Tools
+
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 💳 Certificates
+
+- **정보처리기사** – 한국산업인력공단 (2025)
+- **리눅스마스터 2급** – 한국정보통신진흥협회 (2025)
+- **SQLD** – 한국데이터산업진흥원 (2024)
+- **ADsP** – 한국데이터산업진흥원 (2024)
+- **컴퓨터활용능력 1급** – 고용노동부 (2022)
+
+---
+
+## 🏆 Algorithm
+
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hsh11" />
+  <img src="http://mazandi.herokuapp.com/api?handle=hsh11&theme=cold" />
+</p>
