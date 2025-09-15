@@ -23,7 +23,9 @@
         <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
         <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=fff">
-        <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white">
+        <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka">
+        <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white">
       </p>
       <h4>Database</h4>
       <p>
