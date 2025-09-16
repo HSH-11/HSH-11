@@ -48,7 +48,9 @@
       <p>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
         <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white">
-        <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white">
+        <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white">
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white">
       </p>
       <h4>Tools</h4>
       <p>
