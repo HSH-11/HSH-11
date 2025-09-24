@@ -33,11 +33,6 @@
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
         <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white">
       </p>
-      <h4>LLM &amp; AI</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Google%20Gemini%20API-886FBF?style=flat&logo=googlegemini&logoColor=fff">
-        <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white">
-      </p>
       <h4>Operating System</h4>
       <p>
         <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white">
