@@ -17,7 +17,6 @@
       </p>
       <h4>Frameworks &amp; Libraries</h4>
       <p>
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
         <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"><br>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
