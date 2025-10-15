@@ -56,7 +56,6 @@
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"><br>
         <img src="https://img.shields.io/badge/GitHub%20Pages-121013?style=flat&logo=github&logoColor=white">
         <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff">
-        <img src="https://custom-icon-badges.demolab.com/badge/Cursor-000000?style=flat&logo=cursor-ai-white">
         <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white">
       </p>
     </td>
